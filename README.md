@@ -1,5 +1,3 @@
-# social_buzz_analytics_project
-
 # **Social Buzz Analytics: Analyzing Social Media Activity for a Social Media Company**
 
 ![screenshot](social_buzz_viz.jpg)
