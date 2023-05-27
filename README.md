@@ -4,7 +4,7 @@
 
 ![screenshot](social_buzz_viz.jpg)
 
-## **Status:** Updating
+## **Status:** Completed (May 8 2023 to May 22 2023)
 
 ## **Project Description**
 
