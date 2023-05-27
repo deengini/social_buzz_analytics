@@ -2,6 +2,8 @@
 
 # **Social Buzz Analytics: Analyzing Social Media Activity for a Social Media Company**
 
+![screenshot](social_buzz_viz.jpg)
+
 ## **Status:** Updating
 
 ## **Project Description**
@@ -30,11 +32,13 @@ The data used for this project was provided via the joint efforts of Accenture a
 
 This repository contains the following: 
 
-* A [PDF document]() of the steps taking during the process of this project.
+* An [image file](https://github.com/deengini/social_buzz_analytics/blob/main/requirements.jpg) of the requirements of this project 
 
-* A [Power BI file]() which contains a report and dashboard for visualizing the data. 
+* A [PDF document](https://github.com/deengini/social_buzz_analytics/blob/main/Social%20Buzz%20Data%20Analytics%20Documentation.pdf) of the steps taking during the process of this project.
 
-* An [image file]() which contains the same dashboard as above but easier viewing access. 
+* A [Power BI file](https://github.com/deengini/social_buzz_analytics/blob/main/social_buzz_dashboard.pbix) which contains a report and dashboard for visualizing the data. 
+
+* An [image file](https://github.com/deengini/social_buzz_analytics/blob/main/social_buzz_viz.jpg) which contains the same dashboard as above but easier viewing access. 
 
 ## **Project Applications**
 
